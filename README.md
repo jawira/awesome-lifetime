@@ -1,4 +1,5 @@
 # awesome-lifetime
+
 Curated list of lifetime subscriptions
 
 ## Email hosting
@@ -12,7 +13,7 @@ Curated list of lifetime subscriptions
 
 ## Domain name registrars
 
-- [Epic](https://www.epik.com/promos/forever/) Buy your domain once and keep it forever.
+- [Epik](https://www.epik.com/promos/forever/) Buy your domain once and keep it forever.
 
 ## Password manager
 
