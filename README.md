@@ -1,7 +1,12 @@
 # awesome-lifetime
 Curated list of lifetime subscriptions
 
-# Email hosting
+## Email hosting
 
-- [MXRoute](https://mxroute.com/) Lifetime package includes 10GB storage, unlimited email accounts, unlimited domains, and 300 outbound emails per hour limit. [They have a limited number of lifetime packages to sel](https://accounts.mxroute.com/index.php?/news/view/12/lifetime-promo/).
+- [MXRoute](https://mxroute.com/) Lifetime package includes 10GB storage, unlimited email accounts, unlimited domains, and 300 outbound emails per hour limit. [They have a limited number of lifetime packages to sell](https://accounts.mxroute.com/index.php?/news/view/12/lifetime-promo/).
+
+## Cloud storage
+
+- [IceDrive](https://icedrive.net/) They offer one-time payment for their plans: Lite (150GB), Pro (1TB) and Pro+ (5TB).
+- [pCloud](https://www.pcloud.com/cloud-storage-pricing-plans.html?period=lifetime) Lifetime subscription for Premium (500GB) and Premium Plus (2TB) plans.
 
