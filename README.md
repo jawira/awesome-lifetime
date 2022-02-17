@@ -10,3 +10,6 @@ Curated list of lifetime subscriptions
 - [IceDrive](https://icedrive.net/) They offer one-time payment for their plans: Lite (150GB), Pro (1TB) and Pro+ (5TB).
 - [pCloud](https://www.pcloud.com/cloud-storage-pricing-plans.html?period=lifetime) Lifetime subscription for Premium (500GB) and Premium Plus (2TB) plans.
 
+## Password manager
+
+- [Enpass](https://www.enpass.io/pricing/) One-time payment. Enpass takes care of your passwords, logins, credit cards, driving licenses and other important files and keeps them secure and handy in one place.
