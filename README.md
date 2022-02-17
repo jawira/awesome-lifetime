@@ -1,6 +1,6 @@
 # awesome-lifetime
 
-Curated list of lifetime subscriptions
+Curated list of lifetime subscriptions. Pay once, use forever.
 
 ## Email hosting
 
@@ -17,7 +17,7 @@ Curated list of lifetime subscriptions
 
 ## Password manager
 
-- [Enpass](https://www.enpass.io/pricing/) One-time payment. Enpass takes care of your passwords, logins, credit cards, driving licenses and other important files and keeps them secure and handy in one place.
+- [Enpass](https://www.enpass.io/pricing/) Enpass takes care of your passwords, logins, credit cards, driving licenses and other important files and keeps them secure and handy in one place.
 
 ## VPN
 
