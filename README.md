@@ -18,3 +18,7 @@ Curated list of lifetime subscriptions
 ## Password manager
 
 - [Enpass](https://www.enpass.io/pricing/) One-time payment. Enpass takes care of your passwords, logins, credit cards, driving licenses and other important files and keeps them secure and handy in one place.
+
+## VPN
+
+- [VPN Unlimited](https://www.vpnunlimited.com/) Protects your traffic, privacy, and data.
