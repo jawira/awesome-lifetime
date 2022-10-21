@@ -4,7 +4,7 @@ Curated list of lifetime subscriptions. Pay once, use forever.
 
 ## Ebook
 
-- [Leanpub](https://leanpub.com/membership) - Lifetime membership gives you access to free access to about 2000 books and other useful features if your are an ebook author.
+- [Leanpub](https://leanpub.com/membership) - Lifetime membership gives you free access to about 2000 books and other useful features if your are an ebook author.
 
 ## Email hosting
 
