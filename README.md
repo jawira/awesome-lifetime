@@ -2,6 +2,10 @@
 
 Curated list of lifetime subscriptions. Pay once, use forever.
 
+## Ebook
+
+-[Leanpub](https://leanpub.com/membership) - Lifetime membership gives you access to free access to about 2000 books and other useful features if your are an ebook author.
+
 ## Email hosting
 
 - [MXRoute](https://mxroute.com/) - Lifetime package includes 10GB storage, unlimited email accounts, unlimited domains, and 300 outbound emails per hour limit. [They have a limited number of lifetime packages to sell](https://accounts.mxroute.com/index.php?/news/view/12/lifetime-promo/).
