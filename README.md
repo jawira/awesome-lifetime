@@ -26,3 +26,7 @@ Curated list of lifetime subscriptions. Pay once, use forever.
 ## VPN
 
 - [VPN Unlimited](https://www.vpnunlimited.com/) - Protects your traffic, privacy, and data.
+
+## Web design
+
+- [Bootstrap Studio](https://bootstrapstudio.io/) - Bootstrap Studio is a powerful desktop app for designing and prototyping websites.
