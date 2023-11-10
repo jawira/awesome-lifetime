@@ -19,6 +19,12 @@ Curated list of lifetime subscriptions. Pay once, use forever.
 
 - [Epik](https://www.epik.com/promos/forever/) - Buy your domain once and keep it forever.
 
+## JetBrains plug-ins
+
+Plug-ins for IntelliJ IDEA, Android Studio, CLion, DataGrip, GoLand, PhpStorm, PyCharm, Rider, RubyMine, WebStorm, etc.
+
+- [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets) 🌈Rainbow Brackets for IntelliJ-based IDEs/Android Studio/HUAWEI DevEco Studio. [Lifetime license for personal use.](https://github.com/izhangzhihao/intellij-rainbow-brackets/discussions/2587)
+
 ## Password manager
 
 - [Enpass](https://www.enpass.io/pricing/) - Enpass takes care of your passwords, logins, credit cards, driving licenses and other important files and keeps them secure and handy in one place.
