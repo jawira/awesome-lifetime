@@ -1,6 +1,6 @@
 # Awesome Lifetime
 
-Curated list of lifetime subscriptions. Pay once, use forever.
+Curated list of lifetime subscriptions. **Pay once, use forever.**
 
 ## Ebook
 
@@ -18,6 +18,9 @@ Curated list of lifetime subscriptions. Pay once, use forever.
 ## Domain name registrars
 
 - [Epik](https://www.epik.com/promos/forever/) - Buy your domain once and keep it forever.
+
+## Forms
+- [Formlick](https://formlick.com/) - Online form builder. LifeTime plan gives you unlimited forms.
 
 ## JetBrains plug-ins
 
