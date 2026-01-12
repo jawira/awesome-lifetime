@@ -1,8 +1,6 @@
 # Awesome Lifetime
 
-**Awesome Lifetime** is a curated collection of online services that offer lifetime access for a one-time payment, in contrast to competitors that rely on recurring subscription models.
-
-**Pay once, use forever.**
+**Awesome Lifetime** is a curated collection of online services that offer **lifetime access for a one-time payment**, in contrast to competitors that rely on recurring subscription models.
 
 ## Ebook
 
