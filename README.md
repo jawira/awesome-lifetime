@@ -39,3 +39,7 @@ Plug-ins for IntelliJ IDEA, Android Studio, CLion, DataGrip, GoLand, PhpStorm, P
 ## Web design
 
 - [Bootstrap Studio](https://bootstrapstudio.io/) - Bootstrap Studio is a powerful desktop app for designing and prototyping websites.
+
+## Notifications
+
+- [Pushover](https://pushover.net/) - Pushover makes it easy to get real-time notifications on your Android, iPhone, iPad, and Desktop (Android Wear and Apple Watch, too!). It's just a $4.99 USD one-time purchase on each platform.
