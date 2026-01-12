@@ -1,6 +1,8 @@
 # Awesome Lifetime
 
-Curated list of lifetime subscriptions. **Pay once, use forever.**
+**Awesome Lifetime** is a curated collection of online services that offer lifetime access for a one-time payment, in contrast to competitors that rely on recurring subscription models.
+
+**Pay once, use forever.**
 
 ## Ebook
 
@@ -38,8 +40,8 @@ Plug-ins for IntelliJ IDEA, Android Studio, CLion, DataGrip, GoLand, PhpStorm, P
 
 ## Web design
 
-- [Bootstrap Studio](https://bootstrapstudio.io/) - Bootstrap Studio is a powerful desktop app for designing and prototyping websites.
+- [Bootstrap Studio](https://bootstrapstudio.io/) - Bootstrap Studio is a powerful desktop app for designing and prototyping websites. With a $59 USD lifetime subscription with free upgrades. (last update 2026-01-12)
 
 ## Notifications
 
-- [Pushover](https://pushover.net/) - Pushover makes it easy to get real-time notifications on your Android, iPhone, iPad, and Desktop (Android Wear and Apple Watch, too!). It's just a $4.99 USD one-time purchase on each platform.
+- [Pushover](https://pushover.net/) - Pushover makes it easy to get real-time notifications on your Android, iPhone, iPad, and Desktop (Android Wear and Apple Watch, too!). It's just a $4.99 USD one-time purchase on each platform. (last update 2026-01-12)
